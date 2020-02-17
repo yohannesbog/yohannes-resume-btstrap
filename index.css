@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(50, 151, 19)
+}
+.container-fluid {
+        background-color: rgb(226, 242, 247);
+
+} 
+#header {
+    text-align: center;
+    background-color: rgb(226, 242, 247);
+color: rgb(65, 67, 226)  
+}
+  #side-nav {
+    background-color: rgb(187, 236, 248);
+  }
+  #projects-container, #projects {
+    background-color: rgb(226, 242, 247);
+    color: rgb(31, 33, 182)  
+
+  }
+  #projects > li {
+    background-color: rgb(226, 242, 247);
+
+
+  } 
+  #photo-id {
+    float: left;
+    width: 250px;
+    height: 250px;
+    padding-top: 0;
+    margin-left:1px;
+    margin-right:20px;
+    background-color: rgb(226, 242, 247);
+  
+  }
+  
+  .card {
+    border: none;
+    background-color: rgb(144, 222, 241);
+
+  }
+  .email-logo {
+      width: 50px;
+      height: 40px;
+align-content: center  }
+
+.linkdin-logo {
+    width: 80px;
+    height: 70px;
+}
+#contact {
+    background-color: rgb(226, 242, 247);
+}
