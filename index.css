@@ -7,11 +7,11 @@ body {
 } 
 #header {
     text-align: center;
-    background-color: rgb(226, 242, 247);
-color: rgb(65, 67, 226)  
+    background-color: rgb(96, 99, 99);
+     color:whitesmoke
 }
   #side-nav {
-    background-color: rgb(187, 236, 248);
+    background-color: rgb(48, 53, 54);
   }
   #projects-container, #projects {
     background-color: rgb(226, 242, 247);
@@ -20,9 +20,10 @@ color: rgb(65, 67, 226)
   }
   #projects > li {
     background-color: rgb(226, 242, 247);
-
-
   } 
+   #side-nav a:hover {
+    color: white
+  }
   #photo-id {
     float: left;
     width: 250px;
@@ -49,5 +50,5 @@ align-content: center  }
     height: 70px;
 }
 #contact {
-    background-color: rgb(226, 242, 247);
+    background-color: rgb(205, 214, 214);
 }
