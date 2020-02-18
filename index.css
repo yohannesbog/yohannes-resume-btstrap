@@ -49,5 +49,6 @@ align-content: center  }
     height: 70px;
 }
 #contact {
-    background-color: rgb(205, 214, 214);
+  background-color:gainsboro;
+  border-top:2px black solid 
 }
